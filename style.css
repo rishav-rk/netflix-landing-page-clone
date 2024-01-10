@@ -263,14 +263,14 @@ ul li {
     margin: 10px auto;
 }
 .list-buttons{
-    width:1175px;
+    width:1165px;
     background-color: #2d2d2d;
     color:white;
     height: 80px;
     cursor: pointer;
     text-align: left;
     padding:1.5rem;
-    font-size: 1.6rem;
+    font-size: 1.5rem;
     border:none;    
     position: relative;
 }
@@ -290,7 +290,7 @@ svg{
 }
 .answer-container{
     background-color: #2d2d2d;
-    width: 1175px;
+    width: 1165px;
     margin: 0 auto;
     border-top: 1px solid black;
     overflow: hidden;
@@ -338,7 +338,7 @@ footer{
 }
 p.footer{
     color: var(--footer-link-color);
-    font-size: 1.2rem;
+    font-size: 1rem;
 }
 footer a{
     color:var(--footer-link-color);
@@ -367,7 +367,7 @@ div.footer-links-container{
     display:flex;
 }
 div.footer-links{
-    width:300px;
+    width:290px;
 }
 div.select-container > select{
     padding:5px 20px;
